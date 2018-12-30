@@ -1,7 +1,7 @@
 {
-  "name": "sass-initial-setup",
+  "name": "responsive-four-column-grid",
   "version": "1.0.0",
-  "description": "A simple skeleton project for SASS",
+  "description": "A simple 4 columgn grid layout with responsive behaviour.",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FullyStackedCoder/sass-initial-setup.git"
+    "url": "git+https://github.com/FullyStackedCoder/responsive-four-column-grid.git"
   },
   "author": "FullyStackedCoder",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FullyStackedCoder/sass-initial-setup/issues"
+    "url": "https://github.com/FullyStackedCoder/responsive-four-column-grid/issues"
   },
-  "homepage": "https://github.com/FullyStackedCoder/sass-initial-setup#readme",
+  "homepage": "https://github.com/FullyStackedCoder/responsive-four-column-grid#readme",
   "devDependencies": {
     "autoprefixer": "^9.4.3",
     "concat": "^1.0.3",
